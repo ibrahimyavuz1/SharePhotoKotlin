@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790302125225",
+    "project_id": "sharephotokotlin-e0b0f",
+    "storage_bucket": "sharephotokotlin-e0b0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790302125225:android:9c8c7116e88445ab0c0db8",
+        "android_client_info": {
+          "package_name": "com.example.sharephotokotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790302125225-o8eds0nsa50ls0kd8kknsp20jnjgot9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArzdimGAq2Y5cRwBh5uEX326OOaIg9f_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790302125225-o8eds0nsa50ls0kd8kknsp20jnjgot9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
